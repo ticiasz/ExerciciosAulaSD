@@ -1,0 +1,10 @@
+simpleRMI\calculator\CalculatorServiceImpl.class
+simpleRMI\objectPerson\Person.class
+com\mycompany\sockettcp\Person.class
+com\mycompany\sockettcp\Server.class
+simpleRMI\calculator\Calculator.class
+simpleRMI\calculator\CalculatorService.class
+org\sd\rmi\simpleRmi\messenger\MessengerServiceImpl.class
+org\sd\rmi\simpleRmi\messenger\Message.class
+com\mycompany\sockettcp\Client.class
+org\sd\rmi\simpleRmi\messenger\MessengerService.class

@@ -12,8 +12,6 @@ import org.junit.Test;
 //test vai substituir o nosso public static void main
 public class MessengerIntegrationTest {
     
-    public int x = 1;
-    
     private MessengerServiceImpl messengerService;
     
     //before roda antes do test
